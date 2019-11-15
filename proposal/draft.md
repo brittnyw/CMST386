@@ -64,6 +64,7 @@ Which of the following describes the website you'll you be creating?
     - (Hint: Your storyboard, website map, diagram, or flow chart must show the webpages of the website, how the webpages are related to each other and the flow of the website)
     
         #### Response
+        ` `
     
 ## Web Hosting (100-word minimum):
 ### Please note that you aren't required to actually register a domain name or sign up for a hosting plan
