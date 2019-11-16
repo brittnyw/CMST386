@@ -64,7 +64,15 @@ Which of the following describes the website you'll you be creating?
     - (Hint: Your storyboard, website map, diagram, or flow chart must show the webpages of the website, how the webpages are related to each other and the flow of the website)
     
         #### Response
-        ` `
+        `The website will be organized into four main section/ pages: Home (index), About, Blog, and Current Projects. The Home page will serve as a landing page with and image gallery and links to the most recent posts. The About section will include two subpages: Staff Spotlight and Contact. The Current Projects section will include three subpages: Germantown, Rockville, and TPSS (one page for each main campus. Subfolders will be used to store CSS and media files. As the website grows, folders will be added to organize the posts/pages created each year.
+        
+        The about section will give an overiview of all of the operations the department oversses for Montgomery College. The Staff Spotlight page will be used to give recognition and introduce a staff member each month. The Contact page will provide location information, phone numbers, and email address for the Facilities Office on each campus.
+        
+        The Blog will host all of the general updates: construction progress photos and updates, detour notices and maps, staff awards, new employee profiles, and other general department announcements. 
+        
+        The Current Projects section will highlight all of the larger renovations and building construction that happens on each campus. The landing page will include a gallery of image links for all of the major projects on each campus. The individual campus pages will sort each project based on the location. Currently there is only one major construction project on each campus, so each page will include info for one project. This organization may change in the future as new renovations begin and each campus expands.
+        
+        The design of the layout will match the design of montgomerycollege.edu website to remain compliant with the branding standards pre-established by the College.`
     
 ## Web Hosting (100-word minimum):
 ### Please note that you aren't required to actually register a domain name or sign up for a hosting plan
@@ -75,12 +83,18 @@ Which of the following describes the website you'll you be creating?
 - Find and identify an available domain name that would work for the website you are planning. You may use a website such as Network Solutions (http://www.netsol.com) to find an available domain name. Explain your reasoning for selecting the domain name you identified.
 
     #### Response
+    `The College currently uses OUCampus by Omni Update as their CMS. Coordination with the Marketing department will be required to setup a domain and host the website through the CMS. The domain will be mcblogs.montgomerycollege.edu/facilities/index.html.
+    
+    There will be no need for any additional special technologies, SSL, or ecommerce as the web hosting will be provided through an existing server and the content on the site will be purely informational. 
+    
+    JavaScript widgets may be used to add interactive media and animations.`
 
 ## Marketing (50-word minimum):
 - How will the website be marketed?
 - What SEO (Search Engine Optimization) elements can be covered in the website planning and building process?
 
     #### Response
+    `The website will be marketed through the Office of Facilities webpage on the main College website, and the collegewide communications email that is sent out weekly. SEO keywords and meta description tags will be used to help make the site searcable through Google and the main montgomerycollege.edu website`
 
 ## Security (50-word minimum):
 - Will the website include an e-commerce component?
