@@ -94,7 +94,7 @@ Which of the following describes the website you'll you be creating?
 - What SEO (Search Engine Optimization) elements can be covered in the website planning and building process?
 
     #### Response
-    `The website will be marketed through the Office of Facilities webpage on the main College website, and the collegewide communications email that is sent out weekly. SEO keywords and meta description tags will be used to help make the site searcable through Google and the main montgomerycollege.edu website`
+    `The website will be marketed through the Office of Facilities webpage on the main College website, and the collegewide communications email that is sent out weekly. SEO keywords and meta description tags will be used to help make the site searchable through Google and the main montgomerycollege.edu website.`
 
 ## Security (50-word minimum):
 - Will the website include an e-commerce component?
