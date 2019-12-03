@@ -2,26 +2,63 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="css/style.css">
+        <meta name="keywords" content="YouTube, JavaScript, Vimeo, Tutorials">
+        <!-- Below links the style.less file-->
+        <link rel="stylesheet/less" type="text/css" href="css/style.less">
+        <!-- The lessc command could not be run on my computer so the preporcessor is run using the browser-->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" ></script>
         <title>Exercise 2 - Brittny Woods</title>
     </head>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="ex1.html">Exercise 1</a></li>
-            <li><a class="active" href="ex2.html">Exercise 2</a></li>
-            <li><a href="ex3.html">Exercise 3</a></li>
-            <li><a href="ex4.html">Exercise 4</a></li>
-        </ul>
-    </nav>
-    <body>
-        <section id="wrapper">
-            <h3>Coming Soon!</h3>
-        </section>
+    <body id="content">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="ex1.html">Exercise 1</a></li>
+                    <li><a class="active" href="ex2.html">Exercise 2</a></li>
+                    <li><a href="ex3.html">Exercise 3</a></li>
+                    <li><a href="ex4.html">Exercise 4</a></li>
+                    <li><a href="form.html">Contact</a></li>
+                </ul>
+            </nav>
+            <ul class="breadcrumb">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ex1.html">Exercise 1</a></li>
+                <li>Exercise 2</li>
+            </ul>
+        </header>
+        <main id="wrapper">
+            <h1>What do I want to learn in this course?</h1>
+            <p>I believe I am comfortable with the basic HTML concepts. I hope to learn more about advanced CSS concepts like animations. Also, I would like to being exprimenting with using JavaScript.</p>
+            <h1>Video</h1>
+            <h2>YouTube</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ItYye9h_RXg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h2>Alternate Formats</h2>
+            <video width="320" height="240" controls>
+                <source src="videos/glitch_logo.mp4" type="video/mp4">
+                <source src="videos/glitch_logo.webm" type="video/webm">
+                <source src="videos/glitch_logo.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+            <h1>Additional links:</h1>
+            <p>
+                <a href="https://www.w3schools.com/js/default.asp" target="_blank">W3Schools.com JavaScript Tutorial</a><br>
+                <a href="https://javascript.info/" target="_blank">JavaScript.info</a><br>
+                <a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank">Intro. to JavaScript - Codecademy</a><br>
+                <a href="https://www.geeksforgeeks.org/javascript-tutorial/" target="_blank">JavaScript Tutorials - GeeksforGeeks</a><br>
+                <a href="https://codepen.io/search/pens?q=javascript" target="_blank">Example JavaScripts - Codepen</a>
+            </p>
+        </main>
+        <footer>
+            Posted by: Brittny Woods <br>
+            Contact information: <a href="mailto:brittnypwoods@gmail.com">
+            brittnypwoods@gmail.com</a><br><br>
+            <a href="https://validator.w3.org/nu/#file" target="_blank">HTML Validation</a><br><br>
+            <a href="http://jigsaw.w3.org/css-validator/check/referer">
+                <img style="border:0;width:88px;height:31px"
+                    src="http://jigsaw.w3.org/css-validator/images/vcss"
+                    alt="Valid CSS!" />
+            </a><br><br>
+        </footer>
     </body>
-    <footer>
-      Posted by: Brittny Woods <br>
-      Contact information: <a href="mailto:brittnypwoods@gmail.com">
-      brittnypwoods@gmail.com</a>
-    </footer>
 </html>
